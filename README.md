@@ -28,11 +28,7 @@
 
 ![Password Manager - Google Chrome 17-10-2024 12 46 19 PM](https://github.com/user-attachments/assets/e4a91e3b-90e9-432c-a487-f2c905c2e8ec)
 
-## 🛠️ Usage
 
-No installation is required for PasswordX! Simply go to the below link - 
-
-[PASSWORDX](https://ezazaa.github.io/passwordx/)
 
 
 
@@ -48,7 +44,7 @@ passwordx/
 
 ## 👨‍💻 Usage
 
-1. **Open PasswordX** in your browser.
+1. **Open [PasswordX](https://ezazaa.github.io/passwordx/)** in your browser.
 2. **Enter website credentials** in the provided form.
 3. **Click "Save"** to store the credentials securely in local storage.
 4. **View your saved passwords** in the table below the form.

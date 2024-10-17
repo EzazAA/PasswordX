@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/static/v1?label=Hacktoberfest&message=2024&color=orange" alt="Hacktoberfest" />  
     <img src="https://img.shields.io/badge/javascript-ES6+%20%F0%9F%93%A6-blue" alt="JavaScript" />  
 </div>
-# 🔐 PasswordX
 
 **PasswordX** is a simple and secure password manager that allows users to store, manage, and display website credentials right in their browser. With a clean interface and local storage functionality, PasswordX ensures your credentials stay safe and accessible only to you. You can also toggle password visibility when needed!
 

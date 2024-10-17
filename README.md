@@ -32,7 +32,7 @@
 
 No installation is required for PasswordX! Simply go to the below link - 
 
-[PASSWORDX}(https://ezazaa.github.io/passwordx/)
+[PASSWORDX](https://ezazaa.github.io/passwordx/)
 
 
 

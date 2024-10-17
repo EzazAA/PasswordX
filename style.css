@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+
+body {
+    font-family: "Roboto Serif", serif;
+    margin: 20px;
+    font-family: R;
+}
+nav {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.password-form {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 50vh;
+    padding: 2vh;
+}
+.password-form label ,input{
+    margin: 1vh;
+}
+.password-form input{
+    border: solid #4CAF50 2px;
+    height: 4vh;
+}
+input:focus {
+    outline: none; /* Remove the default focus outline */
+    border-color: #4CAF50; /* Optional: change border color when focused */
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.5); /* Optional: add a subtle shadow */
+}
+button{
+    width: 48vh;
+    margin-left: 1vh;
+    margin-top: 4vh;
+    height: 5vh;
+    border:solid #4CAF50 2px;
+    background-color: white;
+}
+button:hover{
+    background-color: #4CAF50;
+
+    color: #fff;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+th {
+    background-color: #f2f2f2;
+}
+.passformdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.checkbox-label{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: small;
+}
+.password-cell {
+    display: flex;
+    align-items: center; /* Center align password and checkbox */
+}
+
+.password-cell input[type="password"],
+.password-cell input[type="text"] {
+    flex-grow: 1; /* Allow password input to grow */
+    margin-right: 10px; /* Space between input and checkbox */
+}

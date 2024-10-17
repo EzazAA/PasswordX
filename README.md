@@ -24,17 +24,17 @@
 2. **Store Passwords**: Click `Save` to store the credentials in your browser’s local storage.
 3. **View Passwords**: Passwords are displayed in a table, with the option to toggle their visibility using the checkbox.
 4. **Show/Hide Passwords**: Check the "Show Password" checkbox in the table to reveal or hide the password.
+## 🖼 Screenshot
 
-## 🛠️ Installation
+![Password Manager - Google Chrome 17-10-2024 12 46 19 PM](https://github.com/user-attachments/assets/e4a91e3b-90e9-432c-a487-f2c905c2e8ec)
 
-No installation is required for PasswordX! Simply clone the repository and open the `index.html` file in your browser.
+## 🛠️ Usage
 
-```bash
-git clone https://github.com/your-username/passwordx.git
-cd passwordx
-```
+No installation is required for PasswordX! Simply go to the below link - 
 
-Open `index.html` in your preferred browser, and you're ready to manage passwords locally!
+[PASSWORDX}(https://ezazaa.github.io/passwordx/)
+
+
 
 ## 📦 File Structure
 
